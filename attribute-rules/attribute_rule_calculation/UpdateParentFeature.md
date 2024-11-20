@@ -1,6 +1,6 @@
 # Update Parent Features
 
-This calculation attribute rule is designed to update a parent feature in a relationship when a new child record is inserted.  This is designed for ArcGIS Collector or a workflow when related record is created and attributes are filled prior to submitted in the record.
+This calculation attribute rule is designed to update a parent feature in a relationship when a new child record is inserted.  This is designed for ArcGIS Field Maps or a workflow when related record is created and attributes are filled prior to submitted in the record.
 
 ## Use cases
 
